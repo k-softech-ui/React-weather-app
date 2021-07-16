@@ -1,5 +1,6 @@
 import React from 'react';
 import New from './new'
+import Sample from './sample';
 
 const App = () =>{
     
@@ -7,6 +8,7 @@ const App = () =>{
         <>
         <div className="App">
             <New />
+            <Sample />
         </div>
         
         </>
